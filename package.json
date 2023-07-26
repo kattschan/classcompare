@@ -19,9 +19,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@vercel/kv": "^0.2.2",
-		"@vercel/node": "^2.15.6",
-		"@vercel/postgres": "^0.4.1",
-		"typescript": "^5.1.6"
+		"@vercel/postgres": "^0.4.1"
 	}
 }
