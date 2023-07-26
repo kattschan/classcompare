@@ -1,5 +1,4 @@
 import { sql } from '@vercel/postgres';
-import { VercelRequest, VercelResponse } from '@vercel/node';
 
 export const actions = {
 	default: async ({ request }) => {
